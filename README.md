@@ -1,5 +1,5 @@
-# avaliacao-1
-# atividade para o fechamento de nota
+# Avaliação-1
+# Atividade para o fechamento de nota
 
 # Exercício 1 - Array de Números aleatórios
 Crie um projeto em node, da qual crie uma função que gera um array de 
